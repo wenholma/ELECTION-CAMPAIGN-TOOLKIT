@@ -19,10 +19,10 @@ This repository provides battle-ready tools for NZ council candidates to develop
 ### 📦 Core Products
 | Product | Price | Description | Tech Used |
 |---------|-------|-------------|-----------|
-| **Ward Snapshot Pack** | $495 | Heatmaps of top ward issues with talking points | Python, GeoPandas |
-| **Policy Armor Toolkit** | $795 | Vulnerability assessments + alternative solutions | Policy analysis framework |
+| **Ward Snapshot Pack** | $xxx | Heatmaps of top ward issues with talking points | Python, GeoPandas |
+| **Policy Armor Toolkit** | $xxx | Vulnerability assessments + alternative solutions | Policy analysis framework |
 | **Election Infographic Factory** | $297/graphic | Custom data visualizations in 48 hours | Matplotlib, Canva API |
-| **Three Waters Survival Kit** | $650 | Funding gap calculator + transition roadmap | Stats NZ APIs |
+| **Three Waters Survival Kit** | $xxx | Funding gap calculator + transition roadmap | Stats NZ APIs |
 
 ### 💻 Technical Capabilities
 ```mermaid
@@ -112,8 +112,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 For project inquiries:
-- Email: contact@campaignpolicy.nz
-- LinkedIn: [Your Profile]
+- Email: mwenhold@gmail.com
+
 
 ---
 
