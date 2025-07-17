@@ -1,5 +1,4 @@
-# **Election Campaign Toolkit**
- 🗳️📊
+# **Election Campaign Toolkit**🗳️📊
 
 > Data-driven policy tools for winning local elections in New Zealand
 
