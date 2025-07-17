@@ -21,7 +21,7 @@ This repository provides battle-ready tools for NZ council candidates to develop
 |---------|-------|-------------|-----------|
 | **Ward Snapshot Pack** | $xxx | Heatmaps of top ward issues with talking points | Python, GeoPandas |
 | **Policy Armor Toolkit** | $xxx | Vulnerability assessments + alternative solutions | Policy analysis framework |
-| **Election Infographic Factory** | $297/graphic | Custom data visualizations in 48 hours | Matplotlib, Canva API |
+| **Election Infographic Factory** | $xxx/graphic | Custom data visualizations in 48 hours | Matplotlib, Canva API |
 | **Three Waters Survival Kit** | $xxx | Funding gap calculator + transition roadmap | Stats NZ APIs |
 
 ### 💻 Technical Capabilities
