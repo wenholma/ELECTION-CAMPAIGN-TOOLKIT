@@ -1,4 +1,4 @@
-# NZ Council Campaign Toolkit 🗳️📊
+Election Council Campaign Toolkit 🗳️📊
 
 > Data-driven policy tools for winning local elections in New Zealand
 
